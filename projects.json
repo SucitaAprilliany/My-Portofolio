@@ -1,20 +1,8 @@
 [
   {
-    "name": "Network Monitoring System",
-    "desc": "Aplikasi monitoring jaringan menggunakan SNMP dan visualisasi dasbor interaktif.",
-    "image": "network-project",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  {
-    "name": "E-Commerce Website",
-    "desc": "Membangun toko online responsif dengan integrasi payment gateway.",
-    "image": "web-project",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
+    "name": "Debian Server",
+    "desc": "Client Server (DNS, DHCP, Mail Server, Haproxy, Certificate Authority, Ansible, OpenVPN)",
+    "image": "Debian",
+    "category": "it nsa"
   }
 ]
