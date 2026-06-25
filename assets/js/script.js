@@ -105,33 +105,46 @@ function showSkills(skills) {
 }
 
 function showProjects(projects) {
-    let projectsContainer = document.querySelector("#work .box-container");
+    let projectsContainer = document.querySelector("#projectsContainer");
+    let certificationContainer = document.querySelector("#certificationContainer");
+    
     let projectHTML = "";
-    projects.slice(0, 10).filter(project => project.category != "android").forEach(project => {
-        projectHTML += `
-        <div class="box tilt">
-      <img draggable="false" src="/assets/images/projects/${project.image}.png" alt="project" />
-      <div class="content">
-        <div class="tag">
-        <h3>${project.name}</h3>
-        </div>
-        <div class="desc">
-          <p>${project.desc}</p>
-          <div class="btns">
-            <a href="${project.links.view}" class="btn" target="_blank"><i class="fas fa-eye"></i> View</a>
-            <a href="${project.links.code}" class="btn" target="_blank">Code <i class="fas fa-code"></i></a>
-          </div>
-        </div>
-      </div>
-    </div>`
-    });
-    projectsContainer.innerHTML = projectHTML;
+    let certHTML = "";
 
-    // <!-- tilt js effect starts -->
-    VanillaTilt.init(document.querySelectorAll(".tilt"), {
+    projects.forEach(project => {
+        // Susun template HTML card portofolio secara dinamis
+        let cardHTML = `
+        <div class="box tilt">
+          <img draggable="false" src="./assets/images/projects/${project.image}.${project.ext}" alt="project" style="width: 100%; height: 200px; object-fit: cover;" />
+          <div class="content">
+            <div class="tag">
+                <h3>${project.name}</h3>
+            </div>
+            <div class="desc">
+              <p>${project.desc}</p>
+              <div class="btns">
+                <a href="${project.links.view}" class="btn" target="_blank"><i class="fas fa-eye"></i> View</a>
+                <a href="${project.links.code}" class="btn" target="_blank">Code <i class="fas fa-code"></i></a>
+              </div>
+            </div>
+          </div>
+        </div>`;
+
+        // Pisahkan penempatan berdasarkan kategori JSON
+        if (project.category === "work") {
+            projectHTML += cardHTML;
+        } else if (project.category === "experience") {
+            certHTML += cardHTML;
+        }
+    });
+
+    // Kirim data ke masing-masing kontainer di HTML kamu
+    if (projectsContainer) projectsContainer.innerHTML = projectHTML;
+    if (certificationContainer) certificationContainer.innerHTML = certHTML;
+
+    // VanillaTilt.init(document.querySelectorAll(".tilt"), {
         max: 15,
     });
-    // <!-- tilt js effect ends -->
 
     /* ===== SCROLL REVEAL ANIMATION ===== */
     const srtop = ScrollReveal({
@@ -141,9 +154,7 @@ function showProjects(projects) {
         reset: true
     });
 
-    /* SCROLL PROJECTS */
     srtop.reveal('.work .box', { interval: 200 });
-
 }
 
 fetchData().then(data => {
