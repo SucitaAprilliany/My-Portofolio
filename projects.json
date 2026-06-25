@@ -1,9 +1,9 @@
 [
   {
-    "name": "Debian Server",
+    "name": "Debian",
     "desc": "Client Server (DNS, DHCP, Mail Server, Haproxy, Certificate Authority, Ansible, OpenVPN)",
     "image": "Debian",
-    "category": "it nsa",
+    "category": "work",
     "links": {
       "view": "#",
       "code": "#"
@@ -13,7 +13,7 @@
     "name": "Cisco Packet Tracer",
     "desc": "Hostname, DNS, VTP, Switchport, Routing Static & Dinamic",
     "image": "Packet",
-    "category": "it nsa",
+    "category": "work",
     "links": {
       "view": "#",
       "code": "#"
@@ -21,9 +21,9 @@
   },
   {
     "name": "Pemeliharaan PC",
-    "desc": "Melakukan pengecekan dan pemeliharaan komputer dengan membuka casing PC dan memasang RAM pada slot motherboard.",
+    "desc": "Melakukan pengecekan dan pemeliharaan komputer dengan membuka casing PC dan memasang RAM pada slot yang tersedia di motherboard sebagai bagian dari perawatan serta pengecekan perangkat keras.",
     "image": "Pemeliharaan PC",
-    "category": "hardware",
+    "category": "work",
     "links": {
       "view": "#",
       "code": "#"
@@ -31,9 +31,9 @@
   },
   {
     "name": "Pemeliharaan OS Windows",
-    "desc": "Melakukan mengatur boot priority di BIOS, mendownload windows 11 serta pengecekan windows.",
+    "desc": "Melakukan mengatur boot priority di BIOS, mendownload windows 11 serta pengecekan windows",
     "image": "Pemeliharaan Win",
-    "category": "os",
+    "category": "work",
     "links": {
       "view": "#",
       "code": "#"
@@ -41,9 +41,9 @@
   },
   {
     "name": "Kegiatan Jurusan",
-    "desc": "Mengikuti kegiatan pameran EXPO, LKS, dan kunjungan industri serta mengajar ITClub dibidang IT NSA.",
+    "desc": "Mengikuti kegiatan pameran EXPO, LKS, dan kunjungan industri serta mengajar ITClub dibidang IT NSA",
     "image": "Mini Sucita Aprilliany",
-    "category": "activity",
+    "category": "work",
     "links": {
       "view": "#",
       "code": "#"
@@ -51,9 +51,9 @@
   },
   {
     "name": "Organisasi",
-    "desc": "Mengikuti Organisasi MPK untuk menambah relasi. Berperan sebagai Administrator dalam mengatur agenda sekolah.",
+    "desc": "Mengikuti Organisasi MPK untuk menambah relasi disekolah. Berperan sebagai Administrator dalam Organisasi Siswa. Bertanggung jawab dalam mengatur dan mengorganisir agenda sekolah sesuai prosedur yang berlaku.",
     "image": "Organisasi",
-    "category": "experience",
+    "category": "work",
     "links": {
       "view": "#",
       "code": "#"
@@ -63,6 +63,56 @@
     "name": "Seminar",
     "desc": "Aktif berpartisipasi dan berkontribusi dalam kegiatan komunitas Eksternal.",
     "image": "Seminar",
+    "category": "work",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Lomba Hackathon",
+    "desc": "Sertifikat Peserta Hackathon 7.0 (Web3)",
+    "image": "Hackathon",
+    "category": "experience",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Lomba AWS",
+    "desc": "Sertifikat Peserta Kompetisi AWS (Pengembangan Web)",
+    "image": "AWS",
+    "category": "experience",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Seminar",
+    "desc": "Sertifikat Seminar Kewirausahaan di Balai Kota.",
+    "image": "Walkot1",
+    "category": "experience",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Organisasi",
+    "desc": "Sertifikat anggota organisasi sebagai komisi 3",
+    "image": "SERTIFIKAT",
+    "category": "experience",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Kepesertaan",
+    "desc": "Mengikuti kegiatan program RBN (Remaja BerNegara). Simulasi rapat pimpinan DPR beserta komisi dan rapat paripurna.",
+    "image": "Partai (1)",
     "category": "experience",
     "links": {
       "view": "#",
