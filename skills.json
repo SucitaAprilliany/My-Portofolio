@@ -10,9 +10,21 @@
   {
     "name": "JavaScript",
     "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
-  }
+  },
+  {
+    "name": "VMware Workstation Pro",
+    "icon": "https://img.icons8.com/color/48/000000/vmware.png"
+  },
   {
     "name": "Debian",
-    "icon": "https://img.icons8.com/color/48/000000/Debian--v1.png"
+    "icon": "https://img.icons8.com/color/48/000000/debian.png"
+  },
+  {
+    "name": "Cisco Packet Tracer",
+    "icon": "https://img.icons8.com/color/48/cisco.png"
+  },
+  {
+    "name": "Figma",
+    "icon": "https://img.icons8.com/color/48/000000/figma--v1.png"
   }
 ]
