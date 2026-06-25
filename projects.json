@@ -1,7 +1,17 @@
 [
   {
-    "name": "Portofolio Website",
-    "desc": "Project pembuatan website portofolio responsif menggunakan HTML, CSS, dan JavaScript.",
+    "name": "Network Monitoring System",
+    "desc": "Aplikasi monitoring jaringan menggunakan SNMP dan visualisasi dasbor interaktif.",
+    "image": "network-project",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "E-Commerce Website",
+    "desc": "Membangun toko online responsif dengan integrasi payment gateway.",
+    "image": "web-project",
     "links": {
       "view": "#",
       "code": "#"
