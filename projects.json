@@ -4,83 +4,83 @@
     "desc": "Client Server (DNS, DHCP, Mail Server, Haproxy, Certificate Authority, Ansible, OpenVPN)",
     "image": "Debian",
     "ext": "jpg",
-    "category": "work"
+    "category": "work",
   },
   {
     "name": "Cisco Packet Tracer",
     "desc": "Hostname, DNS, VTP, Switchport, Routing Static & Dinamic",
     "image": "Packet",
     "ext": "jpg",
-    "category": "work"
+    "category": "work",
   },
   {
     "name": "Pemeliharaan PC",
     "desc": "Melakukan pengecekan dan pemeliharaan komputer dengan membuka casing PC dan memasang RAM pada slot yang tersedia di motherboard.",
     "image": "Pemeliharaan PC",
     "ext": "jpeg",
-    "category": "work"
+    "category": "work",
   },
   {
     "name": "Pemeliharaan OS Windows",
     "desc": "Melakukan mengatur boot priority di BIOS, mendownload windows 11 serta pengecekan windows",
     "image": "Pemeliharaan Win",
     "ext": "jpeg",
-    "category": "work"
+    "category": "work",
   },
   {
     "name": "Kegiatan Jurusan",
     "desc": "Mengikuti kegiatan pameran EXPO, LKS, dan kunjungan industri serta mengajar ITClub dibidang IT NSA",
     "image": "Mini Sucita Aprilliany",
     "ext": "png",
-    "category": "work"
+    "category": "work",
   },
   {
     "name": "Organisasi",
     "desc": "Mengikuti Organisasi MPK untuk menambah relasi disekolah. Berperan sebagai Administrator dalam Organisasi Siswa.",
     "image": "Organisasi",
     "ext": "jpeg",
-    "category": "work"
+    "category": "work",
   },
   {
     "name": "Seminar",
     "desc": "Aktif berpartisipasi dan berkontribusi dalam kegiatan komunitas Eksternal.",
     "image": "Seminar",
     "ext": "png",
-    "category": "work"
+    "category": "work",
   },
   {
     "name": "Lomba Hackathon",
     "desc": "Sertifikat Peserta Hackathon 7.0 (Web3)",
     "image": "Hackathon",
     "ext": "jpg",
-    "category": "experience"
+    "category": "experience",
   },
   {
     "name": "Lomba AWS",
     "desc": "Sertifikat Peserta Kompetisi AWS (Pengembangan Web)",
     "image": "AWS",
     "ext": "jpg",
-    "category": "experience"
+    "category": "experience",
   },
   {
     "name": "Seminar",
     "desc": "Sertifikat Seminar Kewirausahaan di Balai Kota.",
     "image": "Walkot1",
     "ext": "jpg",
-    "category": "experience"
+    "category": "experience",
   },
   {
     "name": "Organisasi",
     "desc": "Sertifikat anggota organisasi sebagai komisi 3",
     "image": "SERTIFIKAT",
     "ext": "png",
-    "category": "experience"
+    "category": "experience",
   },
   {
     "name": "Kepesertaan",
     "desc": "Mengikuti kegiatan program RBN (Remaja BerNegara). Simulasi rapat pimpinan DPR beserta komisi dan rapat paripurna.",
     "image": "Partai (1)",
     "ext": "jpeg",
-    "category": "experience"
+    "category": "experience",
   }
 ]
