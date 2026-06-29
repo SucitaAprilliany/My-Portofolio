@@ -1270,17 +1270,19 @@ form .button-area {
   .home {
     flex-direction: column;
     text-align: center;
-    padding-top: 10rem;       /* Ditambah sedikit biar ga mepet navbar mobile */
-    padding-bottom: 7rem;    /* 🌟 KUNCI: Memberi ruang di bawah agar tidak menempel About Me */
-    min-height: auto;        /* 🌟 KUNCI: Melepas paksaan 100vh desktop */
+    padding-top: 10rem;       
+    padding-bottom: 7rem;    
+    min-height: auto;        
     height: auto;
   }
 
   .home .image img {
     width: 250px;
+    height: auto !important;   /* 🌟 KUNCI: Memaksa tinggi gambar mengikuti proporsi aslinya */
+    object-fit: cover;         /* Memastikan gambar terpotong rapi kalau ada ukuran yang melenceng */
     margin-top: 2rem;
-    margin-left: 0 !important; /* Memastikan margin kiri desktop hilang */
-    margin-bottom: 2rem;       /* Jarak aman di bawah gambar */
+    margin-left: 0 !important; 
+    margin-bottom: 2rem;       
   }
 
   /* ABOUT */
