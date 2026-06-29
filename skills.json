@@ -1,14 +1,30 @@
 [
   {
     "name": "HTML",
-    "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
+    "icon": "./assets/images/skills/html.png"
   },
   {
     "name": "CSS",
-    "icon": "https://img.icons8.com/color/48/000000/css3.png"
+    "icon": "./assets/images/skills/css.png"
   },
   {
-    "name": "JavaScript",
-    "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
+    "name": "Javascript",
+    "icon": "./assets/images/skills/javascript.png"
+  },
+  {
+    "name": "VMware Workstation Pro",
+    "icon": "./assets/images/skills/vmware.png"
+  },
+  {
+    "name": "Cisco Packet Tracer",
+    "icon": "./assets/images/skills/cisco.png"
+  },
+  {
+    "name": "Figma",
+    "icon": "./assets/images/skills/figma.png"
+  },
+  {
+    "name": "GitHub",
+    "icon": "./assets/images/skills/github.png"
   }
 ]
