@@ -135,7 +135,7 @@ header .navbar ul li a:hover {
     display: block;
   }
   .home .image img {
-        margin-bottom: 30px; /* Memberikan jarak 30px dari elemen di bawahnya */
+        margin-bottom: 30px !important; /* Memberikan jarak 30px dari elemen di bawahnya */
     }
   header .navbar {
     position: fixed;
