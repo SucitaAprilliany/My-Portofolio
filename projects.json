@@ -9,7 +9,7 @@
   },
   {
     "name": "Cisco Packet Tracer",
-    "desc": "Hostname, DNS, VTP, Switchport, Routing Static & Dinamic",
+    "desc": "Configuring Hostname, DNS, VTP, Switchport, Routing Static & Dinamic",
     "image": "Packet",
     "ext": "jpg",
     "category": "work",
@@ -17,7 +17,7 @@
   },
   {
     "name": "Pemeliharaan PC",
-    "desc": "Melakukan pengecekan dan pemeliharaan komputer dengan membuka casing PC dan memasang RAM pada slot yang tersedia di motherboard.",
+    "desc": "Performing computer checks and maintenance by opening the PC case and installing RAM in the available slots on the motherboard.",
     "image": "Pemeliharaan PC",
     "ext": "jpeg",
     "category": "work",
@@ -25,7 +25,7 @@
   },
   {
     "name": "Pemeliharaan OS Windows",
-    "desc": "Melakukan mengatur boot priority di BIOS, mendownload windows 11 serta pengecekan windows",
+    "desc": "Configuring the boot priority in the BIOS, downloading Windows 11, and checking Windows",
     "image": "Pemeliharaan Win",
     "ext": "jpeg",
     "category": "work",
@@ -33,7 +33,7 @@
   },
   {
     "name": "Kegiatan Jurusan",
-    "desc": "Mengikuti kegiatan pameran EXPO, LKS, dan kunjungan industri serta mengajar ITClub dibidang IT NSA",
+    "desc": "Participated in EXPO and LKS exhibitions, industrial visits, and taught the IT Club in the field of IT NSA",
     "image": "Mini Sucita Aprilliany",
     "ext": "png",
     "category": "work",
@@ -41,7 +41,7 @@
   },
   {
     "name": "Organisasi",
-    "desc": "Mengikuti Organisasi MPK untuk menambah relasi disekolah. Berperan sebagai Administrator dalam Organisasi Siswa.",
+    "desc": "Joined the MPK organization to build connections at school. Served as an administrator in the student organization.",
     "image": "Organisasi",
     "ext": "jpeg",
     "category": "work",
@@ -49,7 +49,7 @@
   },
   {
     "name": "Seminar",
-    "desc": "Aktif berpartisipasi dan berkontribusi dalam kegiatan komunitas Eksternal.",
+    "desc": "Actively participate in and contribute to external community activities.",
     "image": "Seminar",
     "ext": "png",
     "category": "work",
@@ -57,7 +57,7 @@
   },
   {
     "name": "Lomba Hackathon",
-    "desc": "Sertifikat Peserta Hackathon 7.0 (Web3)",
+    "desc": "Hackathon 7.0 (Web3) Participant Certificate",
     "image": "Hackathon",
     "ext": "jpg",
     "category": "experience",
@@ -65,7 +65,7 @@
   },
   {
     "name": "Lomba AWS",
-    "desc": "Sertifikat Peserta Kompetisi AWS (Pengembangan Web)",
+    "desc": "AWS Competition Participant Certificate (Web Development)",
     "image": "AWS",
     "ext": "jpg",
     "category": "experience",
@@ -73,7 +73,7 @@
   },
   {
     "name": "Seminar",
-    "desc": "Sertifikat Seminar Kewirausahaan di Balai Kota.",
+    "desc": "Certificate of Completion for the Entrepreneurship Seminar at City Hall.",
     "image": "Walkot1",
     "ext": "jpg",
     "category": "experience",
@@ -81,7 +81,7 @@
   },
   {
     "name": "Organisasi",
-    "desc": "Sertifikat anggota organisasi sebagai komisi 3",
+    "desc": "Certificate of membership in the organization as Commission 3",
     "image": "SERTIFIKAT",
     "ext": "png",
     "category": "experience",
@@ -89,7 +89,7 @@
   },
   {
     "name": "Kepesertaan",
-    "desc": "Mengikuti kegiatan program RBN (Remaja BerNegara). Simulasi rapat pimpinan DPR beserta komisi dan rapat paripurna.",
+    "desc": "Participating in the RBN (Remaja BerNegara) program. Simulation of a House of Representatives leadership meeting, committee meetings, and a plenary session.",
     "image": "Partai (1)",
     "ext": "jpeg",
     "category": "experience",
