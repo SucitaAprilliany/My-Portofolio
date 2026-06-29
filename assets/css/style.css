@@ -665,13 +665,15 @@ header .navbar ul li a:hover {
   box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.1);
   position: relative;
   overflow: hidden;
-  height: 30rem;
+  height: auto !important; 
+  display: flex;
+  flex-direction: column;
 }
 .work .box-container .box img {
-  height: 100%;
-  width: auto !important;
-  min-height: 100%;
-  object-fit: contain !important;
+  width: 100%;
+  height: auto !important;
+  display: block;
+  object-fit: cover !important;
 }
 .work .box-container .box .content {
   height: 100%;
