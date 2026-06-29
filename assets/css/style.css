@@ -667,15 +667,10 @@ header .navbar ul li a:hover {
   overflow: hidden;
   aspect-ratio: 16 / 9;
 }
-.work .box-container .box .image-wrapper {
-  width: 100%;
-  aspect-ratio: 16 / 9; /* 🌟 KUNCI: Menjaga gambar sertifikat tetep landscape sempurna */
-  overflow: hidden;
-}
 .work .box-container .box img {
   height: 100%;
   width: 100%;
-  object-fit: contain;
+  object-fit: cover;
 }
 .work .box-container .box .content {
   height: 100%;
