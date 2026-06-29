@@ -5,6 +5,7 @@
     "image": "Debian",
     "ext": "jpg",
     "category": "work",
+    "links": { "view": "#", "code": "#" }
   },
   {
     "name": "Cisco Packet Tracer",
@@ -12,6 +13,7 @@
     "image": "Packet",
     "ext": "jpg",
     "category": "work",
+    "links": { "view": "#", "code": "#" }
   },
   {
     "name": "Pemeliharaan PC",
@@ -19,6 +21,7 @@
     "image": "Pemeliharaan PC",
     "ext": "jpeg",
     "category": "work",
+    "links": { "view": "#", "code": "#" }
   },
   {
     "name": "Pemeliharaan OS Windows",
@@ -26,6 +29,7 @@
     "image": "Pemeliharaan Win",
     "ext": "jpeg",
     "category": "work",
+    "links": { "view": "#", "code": "#" }
   },
   {
     "name": "Kegiatan Jurusan",
@@ -33,6 +37,7 @@
     "image": "Mini Sucita Aprilliany",
     "ext": "png",
     "category": "work",
+    "links": { "view": "#", "code": "#" }
   },
   {
     "name": "Organisasi",
@@ -40,6 +45,7 @@
     "image": "Organisasi",
     "ext": "jpeg",
     "category": "work",
+    "links": { "view": "#", "code": "#" }
   },
   {
     "name": "Seminar",
@@ -47,6 +53,7 @@
     "image": "Seminar",
     "ext": "png",
     "category": "work",
+    "links": { "view": "#", "code": "#" }
   },
   {
     "name": "Lomba Hackathon",
@@ -54,6 +61,7 @@
     "image": "Hackathon",
     "ext": "jpg",
     "category": "experience",
+    "links": { "view": "#", "code": "#" }
   },
   {
     "name": "Lomba AWS",
@@ -61,6 +69,7 @@
     "image": "AWS",
     "ext": "jpg",
     "category": "experience",
+    "links": { "view": "#", "code": "#" }
   },
   {
     "name": "Seminar",
@@ -68,6 +77,7 @@
     "image": "Walkot1",
     "ext": "jpg",
     "category": "experience",
+    "links": { "view": "#", "code": "#" }
   },
   {
     "name": "Organisasi",
@@ -75,6 +85,7 @@
     "image": "SERTIFIKAT",
     "ext": "png",
     "category": "experience",
+    "links": { "view": "#", "code": "#" }
   },
   {
     "name": "Kepesertaan",
@@ -82,5 +93,6 @@
     "image": "Partai (1)",
     "ext": "jpeg",
     "category": "experience",
+    "links": { "view": "#", "code": "#" }
   }
 ]
