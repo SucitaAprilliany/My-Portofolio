@@ -134,6 +134,9 @@ header .navbar ul li a:hover {
   #menu {
     display: block;
   }
+  .home .image img {
+        margin-bottom: 30px; /* Memberikan jarak 30px dari elemen di bawahnya */
+    }
   header .navbar {
     position: fixed;
     top: 6.5rem;
