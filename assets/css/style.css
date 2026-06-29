@@ -665,15 +665,14 @@ header .navbar ul li a:hover {
   box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.1);
   position: relative;
   overflow: hidden;
-  height: auto !important; 
-  display: flex;
-  flex-direction: column;
+  height: 30rem !important; /* 🌟 KEMBALIKAN KE 30rem biar hover teks kamu gak rusak atau hilang */
 }
+
 .work .box-container .box img {
   width: 100%;
-  height: auto !important;
-  display: block;
-  object-fit: cover !important;
+  height: 100%;
+  object-fit: contain !important; /* 🌟 KUNCI: Gambar mengecil pas di dalam kotak, gak bakal kepotong lagi */
+  background-color: #00002c;     /* memberikan warna background gelap di sisa space kosongnya */
 }
 .work .box-container .box .content {
   height: 100%;
