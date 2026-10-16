@@ -94,5 +94,21 @@
     "ext": "jpeg",
     "category": "experience",
     "links": { "view": "#", "code": "#" }
+  },
+  {
+    "name": "Pengerjaan LSP",
+    "desc": "Performing network cable crimping and configuring network devices as part of the LSP (Lembaga Sertifikasi Profesi) competency assessment.",
+    "image": "Pengerjaan LSP",
+    "ext": "png",
+    "category": "experience",
+    "links": { "view": "#", "code": "#" }
+  }
+  {
+    "name": "Foto Bersama Kegiatan LSP",
+    "desc": "Group photo session featuring participants, the Head of the Department Competency, subject teachers, and assessors upon completing the LSP assessment.",
+    "image": "Foto bersama kegiatan LSP",
+    "ext": "png",
+    "category": "experience",
+    "links": { "view": "#", "code": "#" }
   }
 ]
