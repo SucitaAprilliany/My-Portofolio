@@ -26,5 +26,17 @@
   {
     "name": "GitHub",
     "icon": "./assets/images/skills/github.png"
+  },
+  {
+    "name": "Adobe Ilustrator",
+    "icon": "./assets/images/skills/AI.png"
+  },
+  {
+    "name": "Canva",
+    "icon": "./assets/images/skills/Canva.jpg"
+  },
+  {
+    "name": "Adobe Photoshop",
+    "icon": "./assets/images/skills/PS.png"
   }
 ]
